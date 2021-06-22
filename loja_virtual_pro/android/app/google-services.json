@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971510806433",
+    "firebase_url": "https://loja-virtual-192cd-default-rtdb.firebaseio.com",
+    "project_id": "loja-virtual-192cd",
+    "storage_bucket": "loja-virtual-192cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971510806433:android:8e3da6c53cc15a8c0ffde0",
+        "android_client_info": {
+          "package_name": "br.com.oliveira.loja_virtual_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971510806433-ej0oq12qsq05uhj4sgmhrljs2tr3o81h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzRcIv2VbInVmTtl7jQoyXGg5KiloV0LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971510806433-ej0oq12qsq05uhj4sgmhrljs2tr3o81h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
